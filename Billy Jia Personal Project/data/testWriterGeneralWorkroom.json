@@ -1,0 +1,14 @@
+{"materials": [
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Grease",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Scales",
+        "location": "Salem-2"
+    }
+]}

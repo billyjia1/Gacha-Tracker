@@ -1,0 +1,80 @@
+{"materials": [
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Grease",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Claw",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Gallstone",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Scale",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Heart",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Lamp",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Wine",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Lanugo",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Root",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Scarab",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Tearstone",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 0.0125,
+        "name": "Horn",
+        "location": "Salem-2"
+    },
+    {
+        "cost": 20,
+        "rate": 20,
+        "name": "Cash",
+        "location": "Youtube"
+    }
+]}
